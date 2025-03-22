@@ -1,0 +1,20 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+h1{
+    color: rgb(80, 136, 97);
+}
+h2{
+    color: rgb(128, 10, 16);
+}
+body{
+    background-color: beige;
+}
+.nature
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
